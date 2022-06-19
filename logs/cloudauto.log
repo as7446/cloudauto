@@ -1,0 +1,7 @@
+2022/06/19 15:14:54.195  [I] [parser.go:413]  generate router from comments
+2022/06/19 15:14:54.195  [I] [server.go:241]  http server Running on http://:8080
+2022/06/19 15:15:14.992  [I] [parser.go:413]  generate router from comments
+2022/06/19 15:15:14.992  [I] [server.go:241]  http server Running on http://:8080
+2022/06/19 15:16:14.193  [I] [bootstrap.go:99]  mysql init success.
+2022/06/19 15:16:14.490  [I] [parser.go:413]  generate router from comments
+2022/06/19 15:16:14.490  [I] [server.go:241]  http server Running on http://:8080
